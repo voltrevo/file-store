@@ -1,5 +1,5 @@
 {
-  "name": "ark-webserver",
+  "name": "file-store",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
